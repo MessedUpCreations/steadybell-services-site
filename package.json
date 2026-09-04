@@ -1,0 +1,9 @@
+{
+  "name": "steadybell-services-site",
+  "version": "1.0.0",
+  "private": true,
+  "description": "SteadyBell Services launch website",
+  "dependencies": {
+    "nodemailer": "^7.0.0"
+  }
+}
